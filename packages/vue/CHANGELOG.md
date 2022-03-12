@@ -1,5 +1,18 @@
 # @aws-amplify/ui-vue
 
+## 2.3.1
+
+### Patch Changes
+
+- [#1484](https://github.com/aws-amplify/amplify-ui/pull/1484) [`8b72277ab`](https://github.com/aws-amplify/amplify-ui/commit/8b72277ab8bd7ad64fa298a9d509572318ac8db2) Thanks [@wlee221](https://github.com/wlee221)! - refactor: share default form fields generation logic
+
+* [#1484](https://github.com/aws-amplify/amplify-ui/pull/1484) [`8b72277ab`](https://github.com/aws-amplify/amplify-ui/commit/8b72277ab8bd7ad64fa298a9d509572318ac8db2) Thanks [@wlee221](https://github.com/wlee221)! - Default `labelHidden` to false. This can be adjusted in a later PR for better UX.
+
+- [#1495](https://github.com/aws-amplify/amplify-ui/pull/1495) [`71abbbe28`](https://github.com/aws-amplify/amplify-ui/commit/71abbbe28c8e87aed63dac8131534cfaeb071843) Thanks [@0618](https://github.com/0618)! - fix a11y errors
+
+- Updated dependencies [[`8b72277ab`](https://github.com/aws-amplify/amplify-ui/commit/8b72277ab8bd7ad64fa298a9d509572318ac8db2), [`8b72277ab`](https://github.com/aws-amplify/amplify-ui/commit/8b72277ab8bd7ad64fa298a9d509572318ac8db2)]:
+  - @aws-amplify/ui@3.3.1
+
 ## 2.3.0
 
 ### Minor Changes
